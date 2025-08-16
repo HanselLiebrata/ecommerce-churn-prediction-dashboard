@@ -1,0 +1,7 @@
+target_method: method1  # method1 | method2 | method3
+rating_threshold: 3.0
+test_size: 0.2
+random_state: 42
+use_smote: true
+cv_folds: 5
+

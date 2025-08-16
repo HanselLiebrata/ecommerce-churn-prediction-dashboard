@@ -1,0 +1,18 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+ENV/
+.env
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+# Large artifacts (adjust as needed)
+models/
+data/processed/
+data/exports/
+reports/
+dashboard/furniture_churn_dashboard.pbix
+
